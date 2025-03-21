@@ -2,8 +2,8 @@ export const Form: React.FC = () => {
     return (
         <>
         <div className="w-full px-4 pb-5">
-            <div className="bg-[#2f4b41] opacity-90 rounded-lg">
-                <form className="p-6 md:p-10 flex flex-col items-center shadow-md rounded-lg text-white">
+            <div className="bg-[#EAE8E1] opacity-90 rounded-lg">
+                <form className="p-6 md:p-10 flex flex-col items-center shadow-md rounded-lg text-[#2f4b41]">
                  
                     <section className="text-center mb-6">
                         <h1 className="text-xl md:text-2xl mb-2">Redo att ge din trädgård lite kärlek?</h1>
@@ -24,7 +24,7 @@ export const Form: React.FC = () => {
                     </section>
             
                     {/* Namn */}
-                    <label htmlFor="name" className="text-white text-sm font-medium self-start mb-1">
+                    <label htmlFor="name" className="text-[#2f4b41] text-sm font-medium self-start mb-1">
                         Namn *
                     </label>
                     <input
@@ -37,7 +37,7 @@ export const Form: React.FC = () => {
                     />
 
                     {/* E-post */}
-                    <label htmlFor="email" className="text-white text-sm font-medium self-start m-1">
+                    <label htmlFor="email" className="text-[#2f4b41] text-sm font-medium self-start m-1">
                         Epost *
                     </label>
                     <input
@@ -50,7 +50,7 @@ export const Form: React.FC = () => {
                     />
 
                     {/* Telefon */}
-                    <label htmlFor="phone" className="text-white text-sm font-medium self-start m-1">
+                    <label htmlFor="phone" className="text-[#2f4b41] text-sm font-medium self-start m-1">
                         Telefon *
                     </label>
                     <input
@@ -63,7 +63,7 @@ export const Form: React.FC = () => {
                     />
 
                     {/* Ärende */}
-                    <label htmlFor="subject" className="text-white text-sm font-medium self-start m-1">
+                    <label htmlFor="subject" className="text-[#2f4b41] text-sm font-medium self-start m-1">
                         Ärende
                     </label>
                     <input
@@ -75,7 +75,7 @@ export const Form: React.FC = () => {
                     />
 
                     {/* Meddelande */}
-                    <label htmlFor="message" className="text-white text-sm font-medium self-start m-1">
+                    <label htmlFor="message" className="text-[#2f4b41] text-sm font-medium self-start m-1">
                         Meddelande *
                     </label>
                     <textarea
