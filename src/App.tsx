@@ -18,8 +18,8 @@ function App() {
         <main className="content">
           <Routes>
             <Route path="/" element={<Home />} />
-            <Route path="/om-oss" element={<About />} />
-            <Route path="/butik" element={<Store />} />
+            <Route path="/våra-tjänster" element={<About />} />
+            <Route path="/produkter" element={<Store />} />
             <Route path="/kontakt" element={<Contact />} />
           </Routes>
         </main>
