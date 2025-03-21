@@ -10,7 +10,7 @@ export const Home: React.FC = () => {
   }, []);
 
   return (
-      <main className="flex flex-col text-white drop-shadow-[2px_2px_4px_black] mt-40 sm:mb-40">
+      <main className="flex flex-col text-white drop-shadow-[2px_2px_4px_black] mt-45 sm:mb-40 mx-auto">
         {/* Introduktion */}
         <section className="flex flex-col items-center text-center w-full">
           <h1 className="md:text-7xl md:w-3/4 mb-2

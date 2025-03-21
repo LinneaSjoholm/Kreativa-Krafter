@@ -11,16 +11,16 @@ export const Form: React.FC = () => {
                         <div className="mb-2">
                             <span>Kontakta oss gärna på:</span>
                             <p className="text-sm">
-                                <span className="font-semibold">Jessica: </span>
+                                <span className="font-semibold">Jessica </span>
                                 <a href="tel:0703770330" className="text-[#69ab94] font-bold hover:underline">0703 770 330</a>
                             </p>
                             <p className="text-sm">
-                                <span className="font-semibold">Michael: </span>
+                                <span className="font-semibold">Michael </span>
                                 <a href="tel:0723322370" className="text-[#69ab94] font-bold hover:underline">0723 322 370</a>
                             </p>
                         </div>
                         <p className="text-sm">Eller fyll i dina uppgifter så återkommer vi snarast.</p>
-                        <p className="text-sm font-medium mb-2">Fält markerade med * är obligatoriska.</p>
+                        <p className="text-xs mb-2">Fält markerade med * är obligatoriska.</p>
                     </section>
             
                     {/* Namn */}
