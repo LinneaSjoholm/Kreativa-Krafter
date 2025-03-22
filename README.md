@@ -1,9 +1,7 @@
 # Kreativa Krafter Trädgård – Website Redesign  
 
 ## 🌿 Project Overview  
-The current website for my parents' business is neither complete nor clear in its purpose. The information is ambiguous, and the user experience needs improvement. To better represent their services, I aim to modernize the site, making it more professional, user-friendly, and informative.  
-
-This project also allows me to apply my skills in web design and development in a real-world scenario.  
+The current website for Kreativa Krafter business is neither complete nor clear in its purpose. The information is ambiguous, and the user experience needs improvement. To better represent their services, I aim to modernize the site, making it more professional, user-friendly, and informative.  
 
 ## 🎯 Objectives  
 The goal is to create a website that:  
