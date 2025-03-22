@@ -1,54 +1,30 @@
-# React + TypeScript + Vite
+# Kreativa Krafter Trädgård – Website Redesign  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🌿 Project Overview  
+The current website for my parents' business is neither complete nor clear in its purpose. The information is ambiguous, and the user experience needs improvement. To better represent their services, I aim to modernize the site, making it more professional, user-friendly, and informative.  
 
-Currently, two official plugins are available:
+This project also allows me to apply my skills in web design and development in a real-world scenario.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🎯 Objectives  
+The goal is to create a website that:  
+✅ **Enhances user experience** – Easy to navigate and understand.  
+✅ **Provides clear information** – Clearly describes the business services and products.  
+✅ **Is modern and responsive** – Works seamlessly on both desktop and mobile devices.  
 
-## Expanding the ESLint configuration
+### 📅 Project Timeline  
+- **Day 1-2:** Design in Figma  
+- **Day 3-12:** Frontend development (HTML, Tailwind, TypeScript, React)  
+- **Day 13-14:** Final adjustments and deployment  
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+## 🛠️ Tech Stack  
+- **Frontend:** HTML, Tailwind CSS, TypeScript, React  
+- **Version Control:** Git & GitHub  
+- **Tools:** Figma for UI/UX design  
 
-```js
-export default tseslint.config({
-  extends: [
-    // Remove ...tseslint.configs.recommended and replace with this
-    ...tseslint.configs.recommendedTypeChecked,
-    // Alternatively, use this for stricter rules
-    ...tseslint.configs.strictTypeChecked,
-    // Optionally, add this for stylistic rules
-    ...tseslint.configs.stylisticTypeChecked,
-  ],
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
-
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
-
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
-
-export default tseslint.config({
-  plugins: {
-    // Add the react-x and react-dom plugins
-    'react-x': reactX,
-    'react-dom': reactDom,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended typescript rules
-    ...reactX.configs['recommended-typescript'].rules,
-    ...reactDom.configs.recommended.rules,
-  },
-})
-```
+## 🚀 Installation & Usage  
+To run this project locally:  
+```bash
+git clone https://github.com/LinneaSjoholm/Kreativa-Krafter.git 
+cd your-repo  
+npm install  
+npm run dev  
