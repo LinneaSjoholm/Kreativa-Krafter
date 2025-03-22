@@ -3,6 +3,9 @@
 ## 🌿 Project Overview  
 The current website for Kreativa Krafter is neither complete nor clear in its purpose. The information is ambiguous, and the user experience needs improvement. To better represent their services, I aim to modernize the site, making it more professional, user-friendly, and informative.  
 
+## 🔗 Current Website  
+You can view the existing website here: [Kreativa Krafter Trädgård](https://kreativakrafter.se/)
+
 ## 🎯 Objectives  
 The goal is to create a website that:  
 ✅ **Enhances user experience** – Easy to navigate and understand.  
