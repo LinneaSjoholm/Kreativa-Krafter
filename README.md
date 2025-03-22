@@ -25,6 +25,6 @@ The goal is to create a website that:
 To run this project locally:  
 ```bash
 git clone https://github.com/LinneaSjoholm/Kreativa-Krafter.git 
-cd your-repo  
+cd kreativa-krafter  
 npm install  
 npm run dev  
