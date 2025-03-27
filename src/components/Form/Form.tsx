@@ -12,11 +12,11 @@ export const Form: React.FC = () => {
                             <span>Kontakta oss gärna på:</span>
                             <p className="text-sm">
                                 <span className="font-semibold">Jessica </span>
-                                <a href="tel:0703770330" className="text-[#69ab94] font-bold hover:underline">0703 770 330</a>
+                                <a href="tel:0703770330" className="text-[#294C3E] font-bold hover:underline">0703 770 330</a>
                             </p>
                             <p className="text-sm">
                                 <span className="font-semibold">Michael </span>
-                                <a href="tel:0723322370" className="text-[#69ab94] font-bold hover:underline">0723 322 370</a>
+                                <a href="tel:0723322370" className="text-[#294C3E] font-bold hover:underline">0723 322 370</a>
                             </p>
                         </div>
                         <p className="text-sm">Eller fyll i dina uppgifter så återkommer vi snarast.</p>
